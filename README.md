@@ -28,9 +28,15 @@
 
 <br/>
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=narinkim&theme=vue&show_icons=true&width="360px"&heigth="150px")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narinkim&layout=compact&theme=vue&width="360px"&heigth="150px")
   
+<div>
+<img align='center' width="300px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narinkim&layout=compact&theme=vue"/>
+<img align='center' width="360px" height="150px" src="https://github-readme-stats.vercel.app/api?username=narinKim&show_icons=true&theme=vue"/> 
+</div>
+ 
+
+<br/>
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/narinkim)](https://hits.seeyoufarm.com) 
