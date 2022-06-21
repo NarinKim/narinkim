@@ -1,13 +1,14 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:DDF2E9,100:5FC397&text=Narin%20Kim&section=header&height=150&fontAlign=70&fontAlignY=30&fontSize=50&desc=welcome!&descAlign=79&descAlignY=55&fontColor=ffff)
 
+<div align=center>
   
-### :seedling: Education
-- SAMSUNG SW ACADEMY FOR YOUTH (SSAFY 6)
-- I majored in computer information and telecommunication engineering
+### :seedling: Education :seedling:
+SAMSUNG SW ACADEMY FOR YOUTH (SSAFY 6) <br/>
+I majored in computer information and telecommunication engineering
 
 <br/>
 
-### :seedling: Skill & Tools
+### :seedling: Skill & Tools :seedling:
 ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flate&logo=Spring&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white) 
@@ -37,7 +38,7 @@
 
 <br/>
 
-<div align=center>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/narinkim)](https://hits.seeyoufarm.com) 
 
